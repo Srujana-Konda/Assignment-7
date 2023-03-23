@@ -1,2 +1,1 @@
-# Assignment-7
-Lab-7
+Using Keras module with CNN on data, to divide it into training and test data , predicting the images of test data.
